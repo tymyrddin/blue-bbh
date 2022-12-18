@@ -1,7 +1,7 @@
 Bug bounty hunting
 ==============================================
 
-Preparing for participation in bug bounty programs.
+Preparing for participation in bug bounty programs. A bug bounty program is a crowd-sourced penetration testing program that rewards for finding security bugs and ways to exploit them. For researchers or cybersecurity professionals, a great way to test skills on a variety of targets and get paid well in case of finding some security vulnerabilities.
 
 ----
 

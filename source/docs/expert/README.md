@@ -6,7 +6,7 @@ Currently considered "expert" techniques.
 
 ## Why?
 
-The most and best deals at the moment.
+The best earnings.
 
 ## How?
 

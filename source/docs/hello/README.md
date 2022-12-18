@@ -6,7 +6,7 @@ Recon strategies for gathering intel on a target and automating recon with bash 
 
 ## Why?
 
-
+Find potential entry points easy and fast.
 
 ## How?
 
