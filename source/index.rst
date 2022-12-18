@@ -22,7 +22,7 @@ Preparing for participation in bug bounty programs. A bug bounty program is a cr
    :glob:
    :maxdepth: 1
    :includehidden:
-   :caption: Getting started
+   :caption: Hello world
 
    docs/hello/README.md
 

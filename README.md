@@ -23,7 +23,7 @@ $ make html
 
 This project welcomes contributions and suggestions. 
 
-[Open an issue here](https://github.com/tymyrddin/blue-bbh/issues)
+[Open an issue here](https://github.com/tymyrddin/red-bbh/issues)
 
 ## Mind
 
