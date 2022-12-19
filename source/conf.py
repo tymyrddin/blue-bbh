@@ -79,5 +79,7 @@ intersphinx_mapping = {
     "red-bof": ("https://red.tymyrddin.dev/projects/bof/en/latest/", None),
     "red-app": ("https://red.tymyrddin.dev/projects/app/en/latest/", None),
     "red-api": ("https://red.tymyrddin.dev/projects/api/en/latest/", None),
+    "red-iac": ("https://red.tymyrddin.dev/projects/iac/en/latest/", None),
+    "red-iot": ("https://red.tymyrddin.dev/projects/iot/en/latest/", None),
 }
 myst_url_schemes = ["http", "https", ]

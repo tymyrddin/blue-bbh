@@ -26,55 +26,31 @@ finding some security vulnerabilities.
    docs/industry/private.md
 
 .. toctree::
-   :glob:
    :maxdepth: 1
    :includehidden:
-   :caption: Hello world
+   :caption: Weaponisation
 
-   docs/hello/README.md
-   Kali VM <https://red.tymyrddin.dev/projects/bof/en/latest/docs/prep/kali.html>
-   docs/hello/burp.md
-   docs/hello/zap.md
-   docs/hello/recon.md
-   docs/hello/scripts.md
+   docs/prep/README.md
+   Install a Kali VM <https://red.tymyrddin.dev/projects/iac/en/latest/docs/lab/kali.html>
+   Install a Windows VM <https://red.tymyrddin.dev/projects/iac/en/latest/docs/lab/windows.html>
+   Setting up Burp Suite on Kali <https://red.tymyrddin.dev/projects/iac/en/latest/docs/lab/burp.html>
+   Setting up ZAP on Kali <https://red.tymyrddin.dev/projects/iac/en/latest/docs/lab/zap.html>
+   Installing Immunity Debugger on Windows <https://red.tymyrddin.dev/projects/iac/en/latest/docs/lab/immunity.html>
 
 .. toctree::
    :glob:
    :maxdepth: 1
    :includehidden:
-   :caption: Web vulnerabilities
+   :caption: Techniques
 
-   docs/vulns/README.md
-   Cross-Site Scripting <https://red.tymyrddin.dev/projects/app/en/latest/docs/exploit/xss.html>
-   Open Redirects <https://red.tymyrddin.dev/projects/app/en/latest/docs/exploit/redirects.html>
-   Clickjacking <https://red.tymyrddin.dev/projects/app/en/latest/docs/exploit/clickjacking.html>
-   Cross-Site Request Forgery <https://red.tymyrddin.dev/projects/app/en/latest/docs/exploit/csrf.html>
-   Insecure Direct Object References <https://red.tymyrddin.dev/projects/app/en/latest/docs/exploit/idor.html>
-   SQL Injection <https://red.tymyrddin.dev/projects/app/en/latest/docs/exploit/sql.html>
-   Race conditions <https://red.tymyrddin.dev/projects/app/en/latest/docs/exploit/race.html>
-   Local File Inclusion <https://red.tymyrddin.dev/projects/app/en/latest/docs/exploit/lfi.html>
-   Server-Side Request Forgery <https://red.tymyrddin.dev/projects/app/en/latest/docs/exploit/ssrf.html>
-   Insecure Deserialization <https://red.tymyrddin.dev/projects/app/en/latest/docs/exploit/id.html>
-   XML External Entity <https://red.tymyrddin.dev/projects/app/en/latest/docs/exploit/xxe.html>
-   Template injection <https://red.tymyrddin.dev/projects/app/en/latest/docs/exploit/ti.html>
-   Application Logic Errors and Broken Access Control <https://red.tymyrddin.dev/projects/app/en/latest/docs/exploit/access.html>
-   Remote Code Execution <https://red.tymyrddin.dev/projects/app/en/latest/docs/exploit/rce.html>
-   Same-Origin Policy Vulnerabilities <https://red.tymyrddin.dev/projects/app/en/latest/docs/exploit/sop.html>
-   Single-Sign-On Security Issues <https://red.tymyrddin.dev/projects/app/en/latest/docs/exploit/sso.html>
-   Information Disclosure <https://red.tymyrddin.dev/projects/app/en/latest/docs/exploit/disclosure.html>
-
-.. toctree::
-   :glob:
-   :maxdepth: 1
-   :includehidden:
-   :caption: Expert techniques
-
-   docs/expert/README.md
-   docs/expert/reviews.md
-   docs/expert/android.md
-   API Mayhem <https://red.tymyrddin.dev/projects/api/en/latest/>
+   docs/tech/README.md
+   Web application hacking <https://red.tymyrddin.dev/projects/api/en/latest/>
+   Hacking APIs <https://red.tymyrddin.dev/projects/api/en/latest/>
    IoT hacking <https://red.tymyrddin.dev/projects/iot/en/latest/>
-   docs/expert/fuzzing.md
+   Buffer overflow exploits <https://red.tymyrddin.dev/projects/bof/en/latest/>
+   docs/tech/reviews.md
+   docs/tech/android.md
+   docs/tech/fuzzing.md
 
 .. toctree::
    :caption: Links
