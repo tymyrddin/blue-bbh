@@ -70,6 +70,10 @@ finding some security vulnerabilities.
    :caption: Expert techniques
 
    docs/expert/README.md
+   docs/expert/reviews.md
+   docs/expert/android.md
+   API Mayhem <https://red.tymyrddin.dev/projects/api/en/latest/>
+   docs/expert/fuzzing.md
 
 .. toctree::
    :caption: Links
