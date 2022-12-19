@@ -78,4 +78,4 @@ finding some security vulnerabilities.
 .. toctree::
    :caption: Links
 
-   Blue Team <https://blue.tymyrddin.dev/>
+   Red Team <https://red.tymyrddin.dev/>
