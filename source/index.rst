@@ -7,7 +7,7 @@ finding some security vulnerabilities.
 
 ----
 
-.. image:: _static/images/bug-bounty-bootcamp.png
+.. image:: _static/images/bug-bounty-books.png
   :alt: Useful books
 
 ----
