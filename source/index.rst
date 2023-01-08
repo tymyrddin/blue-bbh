@@ -53,6 +53,16 @@ finding some security vulnerabilities.
    docs/tech/fuzzing.md
 
 .. toctree::
+   :glob:
+   :maxdepth: 1
+   :includehidden:
+   :caption: Essentials
+
+   docs/essentials/README.md
+   docs/essentials/silent.md
+   docs/essentials/report.md
+
+.. toctree::
    :caption: Links
 
    Red Team <https://red.tymyrddin.dev/>
