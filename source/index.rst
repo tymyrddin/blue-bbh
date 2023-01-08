@@ -44,6 +44,7 @@ finding some security vulnerabilities.
    :caption: Techniques
 
    docs/tech/README.md
+   docs/tech/methodology.md
    Web application hacking <https://red.tymyrddin.dev/projects/api/en/latest/>
    Hacking APIs <https://red.tymyrddin.dev/projects/api/en/latest/>
    IoT hacking <https://red.tymyrddin.dev/projects/iot/en/latest/>

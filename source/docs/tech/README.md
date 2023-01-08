@@ -14,6 +14,7 @@ Find the harder vulnerabilities and chain exploits.
 
 ## How?
 
+* [Bug bounty hunting methodology](methodology.md)
 * [Web application hacking](red-app:index)
 * [Hacking APIs](red-api:index)
 * [Buffer overflow exploits](red-bof:index)
