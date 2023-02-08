@@ -23,5 +23,5 @@ Fuzzing is termed as iteration; the fastest way to hack an application is to tes
 
 ## Exploiting vulnerabilities to generate POCs
 
-By fuzzing, vulnerabilities are identifies. In other scenarios, vulnerability identification is just one aspect of it. In bug bounty hunting, vulnerabilities have to be exploited constructively to generate strong proof of concepts so that the report is considered in high regard.
+By fuzzing, vulnerabilities can be identified. In other scenarios, vulnerability identification is just one aspect of it. In bug bounty hunting, vulnerabilities have to be exploited constructively to generate strong proof of concepts so that the report is considered in high regard.
 A well explained the proof of concepts will accelerate the review process. In conventional penetration tests, vulnerability exploitation is not that important, but in bug bounty hunting, the stronger the proof of concept, the better the reward.

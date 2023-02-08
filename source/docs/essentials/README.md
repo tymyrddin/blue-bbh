@@ -2,7 +2,7 @@
 
 ## What?
 
-Essentials such as clear and useful communication and reporting.
+Methodological, clear and useful communication and reporting.
 
 ## Why?
 
@@ -12,6 +12,7 @@ Essentials such as clear and useful communication and reporting.
 
 ## How?
 
+* [Bug bounty hunting methodology](methodology.md)
 * [Silent features](silent.md)
 * [Writing a report](report.md)
 

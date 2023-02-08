@@ -1,7 +1,7 @@
 Bug bounty hunting
 ==============================================
 
-Preparing for participation in bug bounty programs, crowd-sourced penetration testing programs that reward finding
+Preparing for participation in `bug bounty programs <https://purple.tymyrddin.dev/en/latest/docs/bbh/README.html>`_, crowd-sourced penetration testing programs that reward finding
 security bugs and ways to exploit them. A great way to test skills on a variety of targets and get paid in case of
 finding some security vulnerabilities.
 
@@ -11,19 +11,6 @@ finding some security vulnerabilities.
   :alt: Useful books
 
 ----
-
-.. toctree::
-   :glob:
-   :maxdepth: 1
-   :includehidden:
-   :caption: Industry
-
-   docs/industry/README.md
-   docs/industry/state.md
-   docs/industry/assets.md
-   docs/industry/platforms.md
-   docs/industry/scope.md
-   docs/industry/private.md
 
 .. toctree::
    :maxdepth: 1
@@ -41,27 +28,34 @@ finding some security vulnerabilities.
    :glob:
    :maxdepth: 1
    :includehidden:
-   :caption: Techniques
+   :caption: Essentials
 
-   docs/tech/README.md
-   docs/tech/methodology.md
-   Web application hacking <https://red.tymyrddin.dev/projects/api/en/latest/>
-   Hacking APIs <https://red.tymyrddin.dev/projects/api/en/latest/>
-   IoT hacking <https://red.tymyrddin.dev/projects/iot/en/latest/>
-   Buffer overflow exploits <https://red.tymyrddin.dev/projects/bof/en/latest/>
-   docs/tech/reviews.md
-   docs/tech/android.md
-   docs/tech/fuzzing.md
+   docs/essentials/README.md
+   docs/essentials/methodology.md
+   docs/essentials/silent.md
+   docs/essentials/report.md
 
 .. toctree::
    :glob:
    :maxdepth: 1
    :includehidden:
-   :caption: Essentials
+   :caption: Screencasting PoCs
 
-   docs/essentials/README.md
-   docs/essentials/silent.md
-   docs/essentials/report.md
+   docs/screencasting/README.md
+   docs/screencasting/obs.md
+   docs/screencasting/shotcut.md
+
+.. toctree::
+   :glob:
+   :maxdepth: 1
+   :includehidden:
+   :caption: Assets to hunt in
+
+   docs/assets/README.md
+   Web application hacking <https://red.tymyrddin.dev/projects/api/en/latest/>
+   Hacking APIs <https://red.tymyrddin.dev/projects/api/en/latest/>
+   IoT hacking <https://red.tymyrddin.dev/projects/iot/en/latest/>
+   Buffer overflow exploits <https://red.tymyrddin.dev/projects/bof/en/latest/>
 
 .. toctree::
    :caption: Links
