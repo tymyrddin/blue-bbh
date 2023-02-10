@@ -7,11 +7,6 @@ finding some security vulnerabilities.
 
 ----
 
-.. image:: _static/images/bug-bounty-books.png
-  :alt: Useful books
-
-----
-
 .. toctree::
    :maxdepth: 1
    :includehidden:
@@ -57,7 +52,7 @@ finding some security vulnerabilities.
    IoT hacking <https://red.tymyrddin.dev/projects/iot/en/latest/>
    Buffer overflow exploits <https://red.tymyrddin.dev/projects/bof/en/latest/>
 
-.. toctree::
-   :caption: Links
+----
 
-   Red Team <https://red.tymyrddin.dev/>
+.. image:: _static/images/bug-bounty-books.png
+  :alt: Useful books
