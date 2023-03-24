@@ -5,6 +5,9 @@ Preparing for participation in `bug bounty programs <https://purple.tymyrddin.de
 security bugs and ways to exploit them. A great way to test skills on a variety of targets and get paid in case of
 finding some security vulnerabilities.
 
+.. image:: _static/images/in-progress.png
+  :alt: Forever in progress ...
+
 ----
 
 .. toctree::
