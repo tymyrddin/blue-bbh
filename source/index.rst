@@ -13,14 +13,9 @@ finding some security vulnerabilities.
 .. toctree::
    :maxdepth: 1
    :includehidden:
-   :caption: Weaponisation
+   :caption: Preparation
 
-   docs/prep/README.md
-   Install a Kali VM <https://red.tymyrddin.dev/projects/iac/en/latest/docs/lab/kali.html>
-   Install a Windows VM <https://red.tymyrddin.dev/projects/iac/en/latest/docs/lab/windows.html>
-   Setting up Burp Suite on Kali <https://red.tymyrddin.dev/projects/iac/en/latest/docs/lab/burp.html>
-   Setting up ZAP on Kali <https://red.tymyrddin.dev/projects/iac/en/latest/docs/lab/zap.html>
-   Installing Immunity Debugger on Windows <https://red.tymyrddin.dev/projects/iac/en/latest/docs/lab/immunity.html>
+   Build a local testlab <https://red.tymyrddin.dev/projects/testlab/en/latest/>
 
 .. toctree::
    :glob:
