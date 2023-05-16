@@ -76,11 +76,6 @@ html_show_copyright = False
 
 # Intersphinx
 intersphinx_mapping = {
-    "blue": ("https://blue.tymyrddin.dev/en/latest/", None),
-    "red-bof": ("https://red.tymyrddin.dev/projects/bof/en/latest/", None),
-    "red-app": ("https://red.tymyrddin.dev/projects/app/en/latest/", None),
-    "red-api": ("https://red.tymyrddin.dev/projects/api/en/latest/", None),
-    "red-iac": ("https://red.tymyrddin.dev/projects/iac/en/latest/", None),
-    "red-iot": ("https://red.tymyrddin.dev/projects/iot/en/latest/", None),
+    "blue": ("https://blue.tymyrddin.dev/", None),
 }
 myst_url_schemes = ["http", "https", ]

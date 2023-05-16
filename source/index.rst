@@ -1,9 +1,7 @@
 Bug bounty hunting
 ==============================================
 
-Preparing for participation in `bug bounty programs <https://purple.tymyrddin.dev/en/latest/docs/bbh/README.html>`_, crowd-sourced penetration testing programs that reward finding
-security bugs and ways to exploit them. A great way to test skills on a variety of targets and get paid in case of
-finding some security vulnerabilities.
+Preparing for participation in `bug bounty programs <https://purple.tymyrddin.dev/docs/bbh/README>`_, crowd-sourced penetration testing programs that reward finding security bugs and ways to exploit them. A great way to test skills on a variety of targets and get paid in case of finding some security vulnerabilities.
 
 .. image:: _static/images/in-progress.png
   :alt: Forever in progress ...
@@ -15,7 +13,7 @@ finding some security vulnerabilities.
    :includehidden:
    :caption: Preparation
 
-   Build a local testlab <https://red.tymyrddin.dev/projects/testlab/en/latest/>
+   Build a local testlab <https://testlab.tymyrddin.dev/>
 
 .. toctree::
    :glob:
@@ -44,11 +42,10 @@ finding some security vulnerabilities.
    :includehidden:
    :caption: Assets to hunt in
 
-   docs/assets/README.md
-   Web application hacking <https://red.tymyrddin.dev/projects/api/en/latest/>
-   Hacking APIs <https://red.tymyrddin.dev/projects/api/en/latest/>
-   IoT hacking <https://red.tymyrddin.dev/projects/iot/en/latest/>
-   Buffer overflow exploits <https://red.tymyrddin.dev/projects/bof/en/latest/>
+   Web application hacking <https://webapp.tymyrddin.dev/>
+   Hacking APIs <https://api.tymyrddin.dev/>
+   IoT hacking <https://iot.tymyrddin.dev/>
+   Buffer overflow exploits <https://bof.tymyrddin.dev/>
 
 ----
 
